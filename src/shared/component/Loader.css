@@ -11,9 +11,9 @@
   text-align: center;
   font-size: 1.2em;
   color: #1960ff;
-  background: rgba(232, 232, 232, 0.7);
+  background: transparent;
   z-index: 800;
   -webkit-transition: opacity 500ms ease-in;
   transition: opacity 500ms ease-in;
-  opacity: 0.8;
+  opacity: 0.9;
 }
